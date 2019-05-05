@@ -1,6 +1,6 @@
 # diabetesReadmissionPredictor #
 
-## A R-based implementation of various machine-learning models to predict readmission in hospitals due to Diabetes. ##
+## R-based implementation of various machine-learning models to predict readmission in hospitals due to Diabetes. ##
 
 The dataset used is provided by UCI and can be found [here](https://archive.ics.uci.edu/ml/datasets/diabetes+130-us+hospitals+for+years+1999-2008).
 
