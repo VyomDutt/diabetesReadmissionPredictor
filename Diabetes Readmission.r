@@ -1,4 +1,4 @@
-setwd("C:\\Users\\Vyom\\Desktop\\Stuff\\Vyom\\Minor Project - II")
+
 library(ggplot2)
 diabetesData <- read.csv('diabetic_data.csv')
 temp <- read.csv('diabetic_data.csv')
